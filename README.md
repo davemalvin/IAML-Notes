@@ -1,2 +1,2 @@
 # IAML-Notes
-Scanned handwritten notes for IAML
+My scanned handwritten notes for IAML course
